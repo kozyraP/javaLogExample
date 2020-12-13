@@ -1,0 +1,52 @@
+Dec 13, 2020 9:48:37 AM lessons.Main main
+INFO: In the main method
+Dec 13, 2020 9:48:37 AM lessons.Shop <init>
+INFO: In the Shop constructor
+Dec 13, 2020 9:48:37 AM lessons.Product setId
+INFO: in the setId method
+Dec 13, 2020 9:48:37 AM lessons.Product getId
+INFO: in the getId method
+Dec 13, 2020 9:48:37 AM lessons.Product <init>
+INFO: Create Product with 1 ID
+Dec 13, 2020 9:48:37 AM lessons.Shop printProduct
+INFO: In the printProduct method
+Dec 13, 2020 9:48:37 AM lessons.Product getId
+INFO: in the getId method
+Dec 13, 2020 9:48:37 AM lessons.Product getDescription
+INFO: in the getDescription method
+Dec 13, 2020 9:48:37 AM lessons.Product getPrice
+INFO: in the getPrice method
+Dec 13, 2020 9:48:37 AM lessons.Product getItemsNumber
+INFO: in the getItemsNumber method
+Dec 13, 2020 9:48:37 AM lessons.Product setId
+INFO: in the setId method
+Dec 13, 2020 9:48:37 AM lessons.Product getId
+INFO: in the getId method
+Dec 13, 2020 9:48:37 AM lessons.Product <init>
+INFO: Create Product with 2 ID
+Dec 13, 2020 9:48:37 AM lessons.Shop printProduct
+INFO: In the printProduct method
+Dec 13, 2020 9:48:37 AM lessons.Product getId
+INFO: in the getId method
+Dec 13, 2020 9:48:37 AM lessons.Product getDescription
+INFO: in the getDescription method
+Dec 13, 2020 9:48:37 AM lessons.Product getPrice
+INFO: in the getPrice method
+Dec 13, 2020 9:48:37 AM lessons.Product getItemsNumber
+INFO: in the getItemsNumber method
+Dec 13, 2020 9:48:37 AM lessons.Product setId
+INFO: in the setId method
+Dec 13, 2020 9:48:37 AM lessons.Product getId
+INFO: in the getId method
+Dec 13, 2020 9:48:37 AM lessons.Product <init>
+INFO: Create Product with 3 ID
+Dec 13, 2020 9:48:37 AM lessons.Shop printProduct
+INFO: In the printProduct method
+Dec 13, 2020 9:48:37 AM lessons.Product getId
+INFO: in the getId method
+Dec 13, 2020 9:48:37 AM lessons.Product getDescription
+INFO: in the getDescription method
+Dec 13, 2020 9:48:37 AM lessons.Product getPrice
+INFO: in the getPrice method
+Dec 13, 2020 9:48:37 AM lessons.Product getItemsNumber
+INFO: in the getItemsNumber method
